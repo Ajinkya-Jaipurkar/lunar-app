@@ -1,4 +1,4 @@
 streamlit
 skyfield
 astral
-py-in-the-zuel
+pytz
